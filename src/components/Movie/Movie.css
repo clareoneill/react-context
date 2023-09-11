@@ -1,0 +1,11 @@
+.movie {
+  width: 300px;
+}
+
+.movie__heading {
+  height: 64px;
+}
+
+.movie__poster {
+  height: 450px;
+}

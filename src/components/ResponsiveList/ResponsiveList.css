@@ -1,0 +1,8 @@
+.responsive-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.responsive-list > * {
+  margin: 24px;
+}
